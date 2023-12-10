@@ -13,7 +13,7 @@ namespace DesignPatt_Alg_Other_learning.AdventOfCode
             string? line;
             Console.WriteLine("PROGRAM BEGIN");
 
-
+            // Second commit test 123
             // Variables used for the problem BEGIN
             int totalSum = 0;
             string tempString = "";
